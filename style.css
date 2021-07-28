@@ -73,10 +73,11 @@ html {
         color: rgb(73, 72, 72);
     }
     .box .img-bx{
-        width:130%;
+        width:100%;
         padding-top: 10px;
     }
     .box .img-bx img{
+        width:130%;
         border-radius: 4px;
     }
 }
